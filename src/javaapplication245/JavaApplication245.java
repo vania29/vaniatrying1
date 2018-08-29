@@ -10,6 +10,16 @@ package javaapplication245;
  * @author vania
  */
 public class JavaApplication245 {
+int v;
+int u;
+
+    public int getV() {
+        return v;
+    }
+
+    public int getU() {
+        return u;
+    }
 
     /**
      * @param args the command line arguments
